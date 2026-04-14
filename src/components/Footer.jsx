@@ -81,7 +81,7 @@ const Footer = () => {
             <a
               className="font-regular"
               target="_blank"
-              href="https://github.com/oliverfelixdev/"
+              href="https://github.com/ofelixfx/"
             >
               Oliver
             </a>

@@ -2,10 +2,10 @@ import React, { useState, useEffect, useRef } from "react";
 import Button from "./Button";
 
 const phrases = [
-  "Under Construction",
-  "Code Solutions",
+  "Stay tuned",
+  "Coding Solutions",
   "By O. Felix",
-  "Dev in Progress",
+  "github.com/ofelixfx",
 ];
 
 const specialChars = "$3●#&*@◼!?";
@@ -81,7 +81,7 @@ const Underwork = () => {
           <div className="mt-5 w-full flex items-center justify-center">
             <Button
               text="Learn More"
-              linkroute="https://github.com/oliverfelixdev/"
+              linkroute="https://github.com/ofelixfx/"
             />
           </div>
         </div>
