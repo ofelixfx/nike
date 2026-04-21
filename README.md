@@ -4,7 +4,7 @@ A high-quality, interactive, and responsive Nike-inspired e-commerce experience 
 
 ## 🚀 Live Demo
 
-🔗 [Reimagine Nike Live](https://reimaginenike.vercel.app/)
+🔗 [Reimagine Nike Live](https://nikebyoliver.vercel.app/)
 
 ## 📌 Features
 
@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/oliverfelixdev/Nike.git
+   git clone https://github.com/ofelixfx/Nike.git
    cd Nike
    ```
 
@@ -35,4 +35,4 @@ To run this project locally, follow these steps:
 
 For any inquiries or collaborations, feel free to reach out:
 
-📩 **Instagram:** [Oliver Felix](https://instagram.com/oliverfelix.dev)
+📩 **Instagram:** [Oliver Felix](https://instagram.com)
